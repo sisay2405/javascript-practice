@@ -9,3 +9,4 @@ console.log(pattern.test(phone));
 if (pattern.test(phone));
 else{throw new Error(`i don\`t konw what happend`);
 }
+console.log(phone)
